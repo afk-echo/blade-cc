@@ -7,7 +7,11 @@ Blade, the (work-in-progress) currency converter, (aiming to be) built with [pyn
 2. [Node.js 12.22.0+](https://nodejs.org/en/)
                  
 # Initializing the dev environment:
-`pc run`
+````
+git clone https://github.com/afk-echo/blade-cc.git
+
+pc run
+`````
 
 # License
 Blade is open-source and licensed under the [MIT License](LICENSE).
