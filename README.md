@@ -9,7 +9,8 @@ Blade, the (work-in-progress) currency converter, (aiming to be) built with [pyn
 # Initializing the dev environment:
 ````
 git clone https://github.com/afk-echo/blade-cc.git
-
+cd blade-cc
+pc init
 pc run
 `````
 
